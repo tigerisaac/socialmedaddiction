@@ -1,0 +1,3 @@
+plan for app:
+we want something like a dashboard for the parent, where the parent can check all the logs and see
+data in graphs and stuff. we can use ai to generate summaries and also give tips and concerning logs
